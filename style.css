@@ -1,0 +1,136 @@
+.skip {
+    color: orange;
+}
+
+.top {
+    text-decoration: none;
+    display: flex;
+    margin-top: 50px;
+    background-image: url(images/shapes/Group\ 8450.png);
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.first-1 {
+    text-decoration: none;
+}
+
+first-2 {
+    background-image: url(images/shapes/Group\ 8450.png);
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.order {
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(red, yellow);
+    padding: 10px 20px;
+    border-radius: 12px;
+    color: aliceblue;
+    font-weight: 800;
+}
+
+.middle {
+    margin-top: 150px;
+    display: flex;
+    background-image: url(images/shapes/7.png);
+
+
+
+}
+
+.female {
+    width: 50%;
+    margin-left: 250px
+}
+
+.contact {
+    text-decoration: none;
+    color: black;
+    background-image: linear-gradient(red, yellow);
+    padding: 10px 20px;
+    border-radius: 12px;
+    color: aliceblue;
+    font-weight: 800;
+    margin-left: 200px;
+}
+
+#about {
+    width: 45%;
+    margin-left: 200px;
+
+}
+
+.second-2 {
+    margin-top: 30px;
+
+}
+
+.third-1 {
+    text-align: center;
+    margin-top: 150px;
+}
+
+.project-cover {
+    width: 30%;
+}
+
+.lower {
+    display: flex;
+    margin: 50px;
+}
+
+.about-1 {
+    box-shadow: 10px 10px 30px gray;
+    margin-right: 30px;
+    padding: 8px;
+    border-radius: 15px;
+}
+
+.about-2 {
+    box-shadow: 10px 10px 30px gray;
+    margin-right: 30px;
+    padding: 8px;
+    border-radius: 15px;
+
+}
+
+.last {
+    display: flex;
+    box-shadow: 10px 10px 30px gray;
+    margin-right: 30px;
+    padding: 8px;
+    border-radius: 15px;
+    margin-left: 50px;
+    width: 90%;
+
+
+}
+
+#youtube {
+    margin-left: 100px;
+}
+
+#instragram {
+    margin-left: 300px;
+}
+
+#dribble {
+    margin-left: 300px;
+}
+
+.eat {
+    color: orange;
+    font-weight: 600;
+}
+
+footer {
+    text-align: center;
+    box-sizing: content-box;
+    background-color: black;
+    color: grey;
+    padding: 8px;
+}
